@@ -3,3 +3,10 @@ h2,
 h3 {
     background-color: tomato;
 }
+
+.input {
+    border-color: tomato;
+    height: 32px;
+    border-radius: 16px;
+
+}
